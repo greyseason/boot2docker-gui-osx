@@ -14,6 +14,7 @@
 		0146D8AF18A8031D00C11426 /* B2D-Install.app in Resources */ = {isa = PBXBuildFile; fileRef = 0146D8AB18A8031D00C11426 /* B2D-Install.app */; };
 		0146D8B318A80EE300C11426 /* Delete B2D VM + Init.app in Resources */ = {isa = PBXBuildFile; fileRef = 0146D8B218A80EE300C11426 /* Delete B2D VM + Init.app */; };
 		0146D8B518A8123400C11426 /* bash_profile in Resources */ = {isa = PBXBuildFile; fileRef = 0146D8B418A8123400C11426 /* bash_profile */; };
+		01D7490618A83DA400A1916F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 01D7490518A83DA400A1916F /* LICENSE */; };
 		01E2853E18A6C4E300BC630D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01E2853D18A6C4E300BC630D /* Cocoa.framework */; };
 		01E2854818A6C4E300BC630D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 01E2854618A6C4E300BC630D /* InfoPlist.strings */; };
 		01E2854A18A6C4E300BC630D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01E2854918A6C4E300BC630D /* main.m */; };
@@ -49,6 +50,7 @@
 		0146D8AB18A8031D00C11426 /* B2D-Install.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = "B2D-Install.app"; sourceTree = "<group>"; };
 		0146D8B218A80EE300C11426 /* Delete B2D VM + Init.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = "Delete B2D VM + Init.app"; sourceTree = "<group>"; };
 		0146D8B418A8123400C11426 /* bash_profile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bash_profile; sourceTree = "<group>"; };
+		01D7490518A83DA400A1916F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		01E2853A18A6C4E300BC630D /* Boot2Docker GUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Boot2Docker GUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01E2853D18A6C4E300BC630D /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		01E2854018A6C4E300BC630D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -110,6 +112,7 @@
 		01E2853118A6C4E300BC630D = {
 			isa = PBXGroup;
 			children = (
+				01D7490518A83DA400A1916F /* LICENSE */,
 				01E285DD18A70B5800BC630D /* Docker Icon.icns */,
 				01E285D018A6F79800BC630D /* Icons */,
 				01E2854318A6C4E300BC630D /* Boot2Docker GUI */,
@@ -270,6 +273,7 @@
 				0146D8A618A7E21400C11426 /* update-b2d-iso.command in Resources */,
 				0146D8B518A8123400C11426 /* bash_profile in Resources */,
 				0146D8B318A80EE300C11426 /* Delete B2D VM + Init.app in Resources */,
+				01D7490618A83DA400A1916F /* LICENSE in Resources */,
 				01E285C718A6F36B00BC630D /* b2d-pause.command in Resources */,
 				01E285B618A6D7B000BC630D /* icon_bw.png in Resources */,
 				01E285C918A6F36B00BC630D /* b2d-stop.command in Resources */,
