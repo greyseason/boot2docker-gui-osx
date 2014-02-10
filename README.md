@@ -4,6 +4,7 @@ boot2docker GUI for Mac OS X
 boot2docker GUI for Mac OS X is a Mac Status bar App which allows to control the boot2docker shell script.
 [boot2docker](https://github.com/steeve/boot2docker) is a lightweight Linux distribution made specifically to run [Docker](https://www.docker.io/) containers.
 
+![Boot2Docker-GUI L](doot2docker-gui.png "Boot2Docker-GUI")
 
 Download
 --------
@@ -21,9 +22,9 @@ You will find a small icon with the docker image in the Status Bar.
 * Update boot2docker OS, boot2docker script and docker OS X client
 
 
-To-DOs
+TO-DOs
 ----
 
 * Update readme.md with more detailed information
-* Run at login
+* Open at login
 * Better external shell scripts integration to the App instead of using Platypus based shell scripts as Apps.
