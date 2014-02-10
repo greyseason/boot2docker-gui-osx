@@ -66,7 +66,7 @@ home folder as well.
 
 ".bash_profile" gets updated with path to the /bin folder and where the DOCKER_HOST points to.
 
-* The rest of menu options Start, Pause and etc just call an external shell script with such command to start 
+The rest of menu options Start, Pause and etc just call an external shell script with such command to start 
 the boot2docker OS:
 ````
   ~/bin/boot2docker start
@@ -75,7 +75,6 @@ And so one for the rest of menu options.
 
 
 Update part (runs an external Apps which are packaged scheel scripts with [Platypus](http://sveinbjorn.org/platypus)
-----
 
 docker client update
 ````
