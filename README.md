@@ -15,7 +15,7 @@ How to install
 ----------
 
 Firstly it needs ````VirtualBox for OS X```` to be present on the OS X.
-If you do not have it, download ![VirtualBox for OS X hosts](https://www.virtualbox.org/wiki/Downloads) and install it.
+If you do not have it, download [VirtualBox for OS X hosts](https://www.virtualbox.org/wiki/Downloads) and install it.
 
 Next, unzip the ````Boot2Docker GUI v0.3.0 Install.zip```` and just run the ````Boot2Docker GUI Install````.
 It will install all [boot2docker](https://github.com/boot2docker/boot2docker) and [Docker](https://www.docker.io/) files
