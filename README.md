@@ -20,7 +20,7 @@ If you do not have it, download [VirtualBox for OS X hosts](https://www.virtualb
 Next, unzip the ````Boot2Docker GUI v0.3.0 Install.zip```` and just run the ````Boot2Docker GUI Install````.
 It will install all [boot2docker](https://github.com/boot2docker/boot2docker) and [Docker](https://www.docker.io/) files
 and will put to user's home folder: ````./boot2docker```` and ````bin```` folders.
-Boot2Docker GUI App will be put out your Desktop.
+Boot2Docker GUI App will be put onto your Desktop. You are free to copy it whatever you like.
 
 How it works
 ------------
